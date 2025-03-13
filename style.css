@@ -1,0 +1,88 @@
+body{
+    background-color: black;
+}
+
+.secquad{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.quadrado{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    transition: 0.2s ;
+}
+
+.quadrado:hover{
+    width: 30px;
+    height: 200px;
+    transition: 0.2s ;
+}
+
+.quad1{
+    background-color: aqua;
+    transition: 0.2s ;
+}
+
+.quad1:hover{
+
+    background-color: rgb(220, 159, 255) ;
+    transition: 0.2s ;
+}
+
+.quad2{
+    background-color: rgb(220, 159, 255);
+    transition: 0.2s ;
+}
+
+.quad2:hover{
+
+    background-color: blueviolet ;
+    transition: 0.2s ;
+}
+
+.quad3{
+    background-color: blueviolet;
+    transition: 0.2s ;
+}
+
+.quad3:hover{
+
+    background-color: aquamarine;
+    transition: 0.2s ;
+}
+
+.quad4{
+    background-color: aquamarine;
+    transition: 0.2s ;
+}
+
+.quad4:hover{
+
+    background-color: chartreuse;
+    transition: 0.2s ;
+}
+
+.quad5{
+    background-color: chartreuse;
+    transition: 0.2s ;
+}
+
+.quad5:hover{
+
+    background-color: darkred;
+    transition: 0.2s ;
+}
+
+.quad6{
+    background-color: darkred;
+    transition: 0.2s ;
+}
+
+.quad6:hover{
+
+    background-color: aqua;
+    transition: 0.2s ;
+}
